@@ -30,7 +30,7 @@ npm-debug.log*
 /platforms
 /plugins
 /www
-
+/out-tsc
 #amplify
 amplify/\#current-cloud-backend
 amplify/.config/local-*
